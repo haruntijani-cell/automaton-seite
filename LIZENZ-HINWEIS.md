@@ -11,6 +11,9 @@ verschiedene Lizenzen.
 Zwei Lizenzen, weil es zwei Arten von Werken sind. Die MIT-Lizenz ist für Software gemacht und
 spricht von „the Software"; für Texte ist Creative Commons das passende Werkzeug.
 
+`LICENSE` enthält den MIT-Text unverändert und ohne Zusatz, damit GitHub ihn als MIT erkennt.
+Der Geltungsbereich steht deshalb hier und nicht dort.
+
 ## Die Beiträge: CC BY 4.0
 
 Die Beiträge dürfen vervielfältigt, verbreitet und verändert werden, auch gewerblich, solange die
